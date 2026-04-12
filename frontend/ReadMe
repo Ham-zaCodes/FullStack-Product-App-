@@ -1,0 +1,25 @@
+# Full-Stack Product Management App
+
+This is a MERN stack application to manage products (Add, Edit, Delete, Search).
+
+## How to Run Locally
+
+### 1. Backend Setup
+
+- Go to `backend` folder
+- Run `npm install`
+- Run `node app.js` (Server runs on port 5000)
+
+### 2. Frontend Setup
+
+- Go to `frontend` folder
+- Run `npm install`
+- Run `npm run dev`
+
+## 🛠 Features
+
+- **Add Product:** Create new products with name and price.
+- **Read Products:** View all products in a grid layout.
+- **Edit Product:** Update existing product details.
+- **Delete Product:** Remove products instantly.
+- **Search:** Filter products by name.
